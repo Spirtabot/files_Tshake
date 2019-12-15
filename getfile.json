@@ -1,0 +1,32 @@
+{
+"result": true,
+"plugins_": {
+"info_server.lua":"SPIRTA",
+"db.lua":"SPIRTA",
+"start.lua":"SPIRTA",
+"rdrp.lua":"SPIRTA",
+"botrd.lua":"SPIRTA",
+"notxt.lua":"SPIRTA",
+"re_o.lua":"SPIRTA",
+"userck.lua":"SPIRTA",
+"info_sudos.lua":"SPIRTA",
+"photock.lua":"SPIRTA",
+"rpid.lua":"SPIRTA",
+"if_not_bot.lua":"SPIRTA",
+"db_get.lua":"SPIRTA",
+"add_bot.lua":"SPIRTA",
+"bname.lua":"SPIRTA",
+"ban_my_bot.lua":"SPIRTA",
+"wadd.lua":"SPIRTA",
+"hi_user.lua":"SPIRTA",
+"hms.lua":"SPIRTA",
+"tagadmin.lua":"SPIRTA",
+"pubg.lua":"SPIRTA",
+"rdod.lua":"SPIRTA",
+"namel.lua":"SPIRTA",
+"cheat.lua":"SPIRTA",
+"SH_GB.lua":"SPIRTA",
+"ban_all.lua":"SPIRTA"
+
+}
+}
